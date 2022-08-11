@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emmanuleke
+- 👋 Hi, I’m @Emmanuele ke
 - 👀 I’m interested in ... software engineering
 - 🌱 I’m currently learning ... accounting
 - 💞️ I’m looking to collaborate on ... several ptojects that will help develop my skills
